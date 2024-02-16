@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+  }
+  
+  .countdown {
+    text-align: center;
+  }
+  
+  .countdown-header h1 {
+    color: #333;
+  }
+  
+  .countdown-timer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .time {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0 10px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-image: radial-gradient(circle, #E1E1E1, #B4B4B4); */
+    margin: 0;
+  }
+  
+  .countdown {
+    text-align: center;
+  }
+  
+  .countdown-header h1 {
+    color: #333;
+  }
+  
+  .countdown-timer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .time {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0 20px;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+    
+
+
+
+ .time {
+    background: linear-gradient(135deg, #041d3d, #bbd67c, crimson);
+    -webkit-background-clip: text;
+    /* -webkit-text-fill-color: transparent; */
+    /* transition: all 0.3s ease; */
+  }
+
+
+  
+ h1 {
+    background: linear-gradient(135deg, #041d3d, #fff, crimson);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease;
+  }
+
+
+  body{
+
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8qrxSSvheBfnJio-YzBKLrZmwNuG4VIM66tBNwAe-mv0wo8XB&s);
+background-repeat: no-repeat ; 
+background-position: center fixed;
+background-size: cover;
+}
